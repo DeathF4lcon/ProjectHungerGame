@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!--Level data-->
+<level version="100" minimapOrigin.x="0" minimapOrigin.z="0" minimapSize.x="100" minimapSize.z="100">
+	<object className="obj_Terrain" fileName="terra2">
+		<position x="0.0000" y="0.0000" z="0.0000" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="651.2396" y="99.9939" z="436.0901" />
+		<gameObject hash="625925103" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="653.24" y="99.9939" z="438.09" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="607.1692" y="99.9939" z="521.4534" />
+		<gameObject hash="1319178866" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="609.169" y="99.9939" z="523.453" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="658.6741" y="99.9939" z="496.9412" />
+		<gameObject hash="3856366883" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="660.674" y="99.9939" z="498.941" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="636.3176" y="99.9939" z="518.4346" />
+		<gameObject hash="1418333859" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="638.318" y="99.9939" z="520.435" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="662.3427" y="99.9939" z="462.5847" />
+		<gameObject hash="547598065" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="359.3152" y="-0.0000" z="0.0000" />
+		</gameObject>
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="664.343" y="99.9939" z="464.585" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="663.3195" y="99.9939" z="479.5448" />
+		<gameObject hash="687965419" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="665.32" y="99.9939" z="481.545" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="657.3022" y="99.9939" z="449.2682" />
+		<gameObject hash="2313198533" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="659.302" y="99.9939" z="451.268" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="622.5321" y="99.9939" z="520.5146" />
+		<gameObject hash="626487835" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="624.532" y="99.9939" z="522.515" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="648.6908" y="99.9939" z="509.3069" />
+		<gameObject hash="2430571143" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="650.691" y="99.9939" z="511.307" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="593.2633" y="99.9939" z="523.1553" />
+		<gameObject hash="3541186599" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="595.263" y="99.9939" z="525.155" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="479.2783" y="99.9522" z="466.3374" />
+		<gameObject hash="3420783790" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="-0.0000" y="357.1453" z="357.5822" />
+		</gameObject>
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="481.278" y="100.132" z="468.337" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="527.5703" y="99.9939" z="510.5313" />
+		<gameObject hash="3157638305" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="529.57" y="99.9939" z="512.531" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="499.4884" y="99.9939" z="489.1282" />
+		<gameObject hash="2583504368" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="501.488" y="99.9939" z="491.128" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="560.4138" y="99.9939" z="522.3662" />
+		<gameObject hash="3112257018" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="562.414" y="99.9939" z="524.366" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="576.4617" y="99.9939" z="524.1663" />
+		<gameObject hash="1201307537" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="578.462" y="99.9939" z="526.166" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="544.3101" y="99.9939" z="517.3463" />
+		<gameObject hash="2588144579" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="546.31" y="99.9939" z="519.346" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="512.9818" y="99.9939" z="499.9328" />
+		<gameObject hash="3466294715" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="514.982" y="99.9939" z="501.933" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="data/objectsdepot/capture_points/flag_pole_01.sco">
+		<position x="487.4934" y="99.9939" z="477.3159" />
+		<gameObject hash="3774937493" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<baseControlPoint spawnType="1" numSpawnPoints="1">
+			<point0 x="489.493" y="99.9939" z="479.316" dir="0" />
+		</baseControlPoint>
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/vehicles/an225mria_front.sco">
+		<position x="532.2431" y="94.9837" z="450.0116" />
+		<gameObject hash="476408834" PhysEnable="true" MinQuality="1" BulletPierceable="0" />
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/vehicles/an225mria_tail.sco">
+		<position x="595.3535" y="94.3098" z="425.9291" />
+		<gameObject hash="2856287758" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="42.2897" y="-0.0000" z="0.0000" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/vehicles/an225mria_wingleft.sco">
+		<position x="560.2616" y="93.3251" z="480.6513" />
+		<gameObject hash="819323261" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="17.3934" y="-0.0000" z="0.0000" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/vehicles/an225mria_wingright.sco">
+		<position x="544.7909" y="92.8557" z="400.3083" />
+		<gameObject hash="2427070129" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="350.7871" y="4.4090" z="343.2491" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/wz_townprops/crates_1big_02.sco">
+		<position x="571.2173" y="97.3266" z="453.2099" />
+		<gameObject hash="3648554484" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="180.7295" y="3.3016" z="353.9348" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/wz_townprops/business_tray_01.sco">
+		<position x="573.3547" y="95.7475" z="452.1024" />
+		<gameObject hash="2680684219" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="-0.0000" y="352.0389" z="3.1285" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/zombie_test/zombie_legs_04.sco">
+		<position x="584.3405" y="98.5642" z="427.1487" />
+		<gameObject hash="1566471673" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="222.3326" y="2.8093" z="359.6732" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/zombie_test/zombie_head_01.sco">
+		<position x="584.2676" y="98.6252" z="427.0648" />
+		<gameObject hash="1173269062" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="220.3167" y="358.0997" z="358.7045" />
+		</gameObject>
+		<building />
+	</object>
+	<object className="obj_Building" fileName="data/objectsdepot/zombie_test/zombie_body_03.sco">
+		<position x="584.3193" y="98.6278" z="427.0808" />
+		<gameObject hash="1482389043" PhysEnable="true" MinQuality="1" BulletPierceable="0">
+			<rotation x="220.5381" y="0.1463" z="357.7163" />
+		</gameObject>
+		<building />
+	</object>
+</level>

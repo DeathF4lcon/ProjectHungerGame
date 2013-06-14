@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<build_config>
+	<entity_height val="2" />
+	<entity_radius val="0.4" />
+	<step_max val="0.6" />
+	<slope_max val="50" />
+	<raster_precision val="0.2" />
+	<cell_size val="20" />
+	<altitude_tolerance val="0.5" />
+	<verticel_sampling_step val="0.3" />
+</build_config>
