@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<outputDir>
+    <baseDir>C:\Users\Thomas\Desktop\WarZ Editor\bin</baseDir>
+    <relativeDir>Levels\hungergameproject\navigation\autodesk</relativeDir>
+</outputDir>
+<config>
+    <entityHeight>2.000000</entityHeight>
+    <entityRadius>0.400000</entityRadius>
+    <stepMax>0.600000</stepMax>
+    <slopeMax>50.000000</slopeMax>
+    <rasterPrecision>0.200000</rasterPrecision>
+    <cellSize>20.000000</cellSize>
+    <altitudeTolerance>0.500000</altitudeTolerance>
+    <doUseAltitudeTolerance>1</doUseAltitudeTolerance>
+    <backFaceTrianglesWalkable>1</backFaceTrianglesWalkable>
+    <altitudeToleranceSamplingStep>0.300000</altitudeToleranceSamplingStep>
+    <noiseReductionSurface>1.000000</noiseReductionSurface>
+    <minNavigableSurface>10.000000</minNavigableSurface>
+    <navTagMinPixelArea>6</navTagMinPixelArea>
+    <navTagRasterMergeTolerance>0.100000</navTagRasterMergeTolerance>
+    <navmeshSimplificationTolerance>0.000000</navmeshSimplificationTolerance>
+    <navRasterDistanceMapMetric>Manhattan</navRasterDistanceMapMetric>
+    <useMultiCore>TRUE</useMultiCore>
+    <doEnableLimitedMemoryMode>FALSE</doEnableLimitedMemoryMode>
+    <outputFilesAreLittleEndian>FALSE</outputFilesAreLittleEndian>
+    <visualDebug-use>FALSE</visualDebug-use>
+    <visualDebug-file></visualDebug-file>
+    <IntermediateData>
+        <Write>FALSE</Write>
+    </IntermediateData>
+    <CoordSystem>
+        <OneMeter>1.000000</OneMeter>
+        <X>CLIENT_X</X>
+        <Y>CLIENT_Z</Y>
+        <Z>CLIENT_Y</Z>
+    </CoordSystem>
+</config>
+<sector>
+    <guid>2E489F85-E573-7D4A-BAB3-1F1254E34D17</guid>
+    <doBuild>TRUE</doBuild>
+    <geometries>
+        <geometry>
+            <filepath>C:\Users\Thomas\Desktop\WarZ Editor\bin\Levels\hungergameproject\navigation\autodesk\level.obj</filepath>
+            <counterClockWise>TRUE</counterClockWise>
+        </geometry>
+    </geometries>
+</sector>

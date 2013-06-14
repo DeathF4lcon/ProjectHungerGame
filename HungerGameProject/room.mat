@@ -1,0 +1,323 @@
+[MaterialBegin]
+Name= an225_brockenbodytiled
+Flags= _unused_
+SpecularPower= 0.16
+Specular1Power= 0.41
+ReflectionPower= 0.30
+DoubleSided= 0
+Color24= 86 84 84
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_brockenbodytiled_01_d.dds
+NormalMap= an225_brockenbodytiled_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_wheel
+Flags= _unused_
+SpecularPower= 0.06
+Specular1Power= 0.33
+ReflectionPower= 0.29
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_wheel_01_d.dds
+NormalMap= an225_wheel_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_shassy
+Flags= _unused_
+SpecularPower= 0.00
+Specular1Power= 0.50
+ReflectionPower= 0.00
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_brockenbodytiled_01_d.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_bort
+Flags= _unused_
+SpecularPower= 0.19
+Specular1Power= 0.38
+ReflectionPower= 0.26
+DoubleSided= 1
+Color24= 255 255 255
+DetailScale= 2.57
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_bort_01_d.dds
+NormalMap= an225_bort_01_n.dds
+SpecularMap= an225_bort_01_s.dds
+DetailNMap= an225_bort_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_brockenloads
+Flags= _unused_
+SpecularPower= 0.03
+Specular1Power= 0.49
+ReflectionPower= 0.59
+DoubleSided= 1
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_brockenloads_01_d.dds
+NormalMap= an225_brockenloads_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_detailelement
+Flags= _unused_
+SpecularPower= 0.00
+Specular1Power= 0.58
+ReflectionPower= 0.73
+DoubleSided= 0
+Color24= 200 199 200
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_detailelement_01_d.dds
+NormalMap= an225_detailelement_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_walltiled
+Flags= _unused_
+SpecularPower= 0.00
+Specular1Power= 0.50
+ReflectionPower= 0.00
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_walltiled_01_d.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_paneltiled
+Flags= _unused_
+SpecularPower= 0.43
+Specular1Power= 0.23
+ReflectionPower= 0.46
+DoubleSided= 0
+Color24= 126 126 127
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_paneltiled_01_d.dds
+NormalMap= an225_paneltiled_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_damage
+Flags= _unused_
+SpecularPower= 0.04
+Specular1Power= 0.74
+ReflectionPower= 0.56
+DoubleSided= 1
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.160
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_damage_01_d.dds
+NormalMap= an225_damage_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_grid
+Flags= _unused_
+SpecularPower= 0.00
+Specular1Power= 0.14
+ReflectionPower= 0.18
+DoubleSided= 1
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 1
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_grid_01_d.dds
+NormalMap= an225_grid_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_floor
+Flags= _unused_
+SpecularPower= 0.19
+Specular1Power= 0.26
+ReflectionPower= 0.21
+DoubleSided= 0
+Color24= 64 64 63
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_floor_01_d.dds
+NormalMap= an225_floor_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_door
+Flags= _unused_
+SpecularPower= 0.14
+Specular1Power= 0.50
+ReflectionPower= 0.75
+DoubleSided= 0
+Color24= 144 140 140
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_door_01_d.dds
+NormalMap= an225_door_01_n.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_bort_02
+Flags= _unused_
+SpecularPower= 0.39
+Specular1Power= 0.36
+ReflectionPower= 0.43
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_bort_02_d.dds
+NormalMap= an225_bort_01_n.dds
+SpecularMap= an225_bort_01_s.dds
+[MaterialEnd]
+
+[MaterialBegin]
+Name= an225_engine
+Flags= _unused_
+SpecularPower= 0.12
+Specular1Power= 0.56
+ReflectionPower= 0.41
+DoubleSided= 0
+Color24= 110 111 111
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+ImagesDir= data/objectsdepot/vehicles/Textures
+Texture= an225_engine_01_d.dds
+NormalMap= an225_engine_01_n.dds
+[MaterialEnd]
+
